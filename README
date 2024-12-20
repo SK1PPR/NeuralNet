@@ -1,0 +1,5 @@
+# Neural network in python
+
+- This is a neural network created by following the guide: http://neuralnetworksanddeeplearning.com/
+- This neural network was used to classify the data from the MNIST handwritten digit database: https://yann.lecun.com/exdb/mnist/
+- To run the code: `python -u main.py`
